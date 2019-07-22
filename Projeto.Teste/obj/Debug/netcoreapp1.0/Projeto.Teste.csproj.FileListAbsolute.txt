@@ -1,0 +1,16 @@
+C:\Projeto\Projeto.Teste\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projeto\Projeto.Teste\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Projeto\Projeto.Teste\bin\Debug\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll
+C:\Projeto\Projeto.Teste\bin\Debug\netcoreapp1.0\Projeto.Teste.deps.json
+C:\Projeto\Projeto.Teste\bin\Debug\netcoreapp1.0\Projeto.Teste.runtimeconfig.json
+C:\Projeto\Projeto.Teste\bin\Debug\netcoreapp1.0\Projeto.Teste.runtimeconfig.dev.json
+C:\Projeto\Projeto.Teste\bin\Debug\netcoreapp1.0\Projeto.Teste.dll
+C:\Projeto\Projeto.Teste\bin\Debug\netcoreapp1.0\Projeto.Teste.pdb
+C:\Projeto\Projeto.Teste\bin\Debug\netcoreapp1.0\Projeto.dll
+C:\Projeto\Projeto.Teste\bin\Debug\netcoreapp1.0\Projeto.pdb
+C:\Projeto\Projeto.Teste\obj\Debug\netcoreapp1.0\Projeto.Teste.csprojAssemblyReference.cache
+C:\Projeto\Projeto.Teste\obj\Debug\netcoreapp1.0\Projeto.Teste.csproj.CoreCompileInputs.cache
+C:\Projeto\Projeto.Teste\obj\Debug\netcoreapp1.0\Projeto.Teste.AssemblyInfo.cs
+C:\Projeto\Projeto.Teste\obj\Debug\netcoreapp1.0\Projeto.Teste.csproj.CopyComplete
+C:\Projeto\Projeto.Teste\obj\Debug\netcoreapp1.0\Projeto.Teste.dll
+C:\Projeto\Projeto.Teste\obj\Debug\netcoreapp1.0\Projeto.Teste.pdb

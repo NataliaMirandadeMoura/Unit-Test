@@ -1,0 +1,13 @@
+C:\Projeto\test\Projeto.Test\bin\Debug\netcoreapp1.1\Projeto.Test.deps.json
+C:\Projeto\test\Projeto.Test\bin\Debug\netcoreapp1.1\Projeto.Test.runtimeconfig.json
+C:\Projeto\test\Projeto.Test\bin\Debug\netcoreapp1.1\Projeto.Test.runtimeconfig.dev.json
+C:\Projeto\test\Projeto.Test\obj\Debug\netcoreapp1.1\Projeto.Test.csproj.CoreCompileInputs.cache
+C:\Projeto\test\Projeto.Test\obj\Debug\netcoreapp1.1\Projeto.Test.AssemblyInfo.cs
+C:\Projeto\test\Projeto.Test\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projeto\test\Projeto.Test\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Projeto\test\Projeto.Test\bin\Debug\netcoreapp1.1\xunit.runner.utility.netcoreapp10.dll
+C:\Projeto\test\Projeto.Test\bin\Debug\netcoreapp1.1\Projeto.Test.dll
+C:\Projeto\test\Projeto.Test\bin\Debug\netcoreapp1.1\Projeto.Test.pdb
+C:\Projeto\test\Projeto.Test\obj\Debug\netcoreapp1.1\Projeto.Test.csprojAssemblyReference.cache
+C:\Projeto\test\Projeto.Test\obj\Debug\netcoreapp1.1\Projeto.Test.dll
+C:\Projeto\test\Projeto.Test\obj\Debug\netcoreapp1.1\Projeto.Test.pdb

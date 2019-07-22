@@ -1,0 +1,8 @@
+C:\Projeto\src\Projeto\bin\Debug\netstandard1.6\Projeto.deps.json
+C:\Projeto\src\Projeto\bin\Debug\netstandard1.6\Projeto.dll
+C:\Projeto\src\Projeto\bin\Debug\netstandard1.6\Projeto.pdb
+C:\Projeto\src\Projeto\obj\Debug\netstandard1.6\Projeto.csprojAssemblyReference.cache
+C:\Projeto\src\Projeto\obj\Debug\netstandard1.6\Projeto.csproj.CoreCompileInputs.cache
+C:\Projeto\src\Projeto\obj\Debug\netstandard1.6\Projeto.AssemblyInfo.cs
+C:\Projeto\src\Projeto\obj\Debug\netstandard1.6\Projeto.dll
+C:\Projeto\src\Projeto\obj\Debug\netstandard1.6\Projeto.pdb
